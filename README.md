@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**Jason1Long/Jason1Long** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**GongXilong1/GongXilong1 ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
